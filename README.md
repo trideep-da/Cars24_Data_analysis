@@ -73,7 +73,7 @@ Analyze the distribution of listings by car brands to identify which brands domi
 
 
 ## **Final Dashboard On PowerBI**
-![WhatsApp Image 2024-07-21 at 18 52 36](https://github.com/user-attachments/assets/d8bf8fb3-18ef-49b2-b67d-dd14582771ad)
+![WhatsApp Image 2024-07-21 at 18 52 36]()
 
 
 ### **Conclusion**
